@@ -1,0 +1,10 @@
+C:\Users\André Canh\source\repos\MP3_Player\MP3_Player\bin\Debug\MP3_Player.exe.config
+C:\Users\André Canh\source\repos\MP3_Player\MP3_Player\bin\Debug\MP3_Player.exe
+C:\Users\André Canh\source\repos\MP3_Player\MP3_Player\bin\Debug\MP3_Player.pdb
+C:\Users\André Canh\source\repos\MP3_Player\MP3_Player\obj\Debug\MP3_Player.csprojAssemblyReference.cache
+C:\Users\André Canh\source\repos\MP3_Player\MP3_Player\obj\Debug\MP3_Player.Properties.Resources.resources
+C:\Users\André Canh\source\repos\MP3_Player\MP3_Player\obj\Debug\MP3_Player.csproj.GenerateResource.cache
+C:\Users\André Canh\source\repos\MP3_Player\MP3_Player\obj\Debug\MP3_Player.csproj.CoreCompileInputs.cache
+C:\Users\André Canh\source\repos\MP3_Player\MP3_Player\obj\Debug\MP3_Player.exe
+C:\Users\André Canh\source\repos\MP3_Player\MP3_Player\obj\Debug\MP3_Player.pdb
+C:\Users\André Canh\source\repos\MP3_Player\MP3_Player\obj\Debug\MP3_Player.frmMediaPlayer.resources
